@@ -1,0 +1,42 @@
+The waterfall model is highly structured and systematically steps through requirements gathering, analysis, SRS document preparation, design, coding, and testing in a planned manner. These phases of the Waterfall model follow a sequential order.
+
+It is characterized by a structured, sequential approach to project management and software development.
+
+Waterfall is particularly useful for large, complex projects with very specific and unchangi
+If a project is developed using the waterfall model is canceled mid-way during development, then there is nothing to show from the abandoned project beyond several documents.
+
+This model is simple to use and understand but not suitable for developing large projects using the Waterfall model.
+
+
+Waterfall
+Pros
+
+Minimal scope creep
+A predictable and well-specified final product
+Well-defined roles and responsibilities
+Infrequent releases that can be carefully rolled out and messaged to users and the market
+Precise project plans and firm deadlinesng requirements.
+Easy to Understand and Implement
+
+The Waterfall Model is very simple and easy to understand. Its linear structure makes it straightforward to follow, which is beneficial for both developers and stakeholders
+Clear Milestones and Phases
+
+Each phase in the Waterfall Model is clearly defined with specific inputs and outputs. This ensures that there are clear milestones and checkpoints throughout the project, making it easier to track progress and manage the project
+
+Well-Documented Process
+
+The Waterfall Model emphasizes thorough documentation at every phase of the software development lifecycle. This documentation helps in understanding the software, maintaining it, and facilitating future growth
+
+Reinforces Good Habits
+
+The Waterfall Model promotes good practices such as defining requirements before design and designing before coding. This structured approach helps in minimizing errors and ensuring that each phase is completed before moving on to the next
+
+Resource Optimization
+
+By allocating resources according to project phases, the Waterfall Model encourages effective task-focused work without continuously changing contexts
+Predictable and Structured Approach
+
+The Waterfall Model provides a predictable and structured approach to software development. This is particularly useful for projects with well-defined requirements and long timelines, where there is little room for error
+
+Does an Organization Have to Choose One or the Other?
+Although Agile devotees may claim it’s all or nothing when it comes to Agile adoption, there are some organizations that borrow from both methodologies for a hybrid model. Typically, they take the more specific direction and pre-determined implementation aspects of Waterfall and marry them with the iterative, short bursts of productivity parts of Agile.
